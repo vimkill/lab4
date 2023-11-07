@@ -1,0 +1,263 @@
+                                   Account_Balance  \
+Account_Balance                           1.000000   
+Duration_of_Credit_monthly               -0.072013   
+Payment_Status_of_Previous_Credit         0.192191   
+Purpose                                   0.028783   
+Credit_Amount                            -0.042695   
+Value_Savings_Stocks                      0.222867   
+Length_of_current_employment              0.106339   
+Instalment_per_cent                      -0.005280   
+Sex_Marital_Status                        0.043261   
+Guarantors                               -0.127737   
+Duration_in_Current_address              -0.042234   
+Most_valuable_available_asset            -0.032260   
+Age_years                                 0.058631   
+Concurrent_Credits                        0.068274   
+Type_of_apartment                         0.023335   
+No_of_Credits_at_this_Bank                0.076005   
+Occupation                                0.040663   
+No_of_dependents                         -0.014145   
+Telephone                                 0.066296   
+Foreign_Worker                           -0.035187   
+
+                                   Duration_of_Credit_monthly  \
+Account_Balance                                     -0.072013   
+Duration_of_Credit_monthly                           1.000000   
+Payment_Status_of_Previous_Credit                   -0.077186   
+Purpose                                              0.147492   
+Credit_Amount                                        0.624988   
+Value_Savings_Stocks                                 0.047661   
+Length_of_current_employment                         0.057381   
+Instalment_per_cent                                  0.074749   
+Sex_Marital_Status                                   0.014789   
+Guarantors                                          -0.024490   
+Duration_in_Current_address                          0.034067   
+Most_valuable_available_asset                        0.303971   
+Age_years                                           -0.037550   
+Concurrent_Credits                                  -0.062884   
+Type_of_apartment                                    0.153126   
+No_of_Credits_at_this_Bank                          -0.011284   
+Occupation                                           0.210910   
+No_of_dependents                                    -0.023834   
+Telephone                                            0.164718   
+Foreign_Worker                                      -0.134680   
+
+                                   Payment_Status_of_Previous_Credit  \
+Account_Balance                                             0.192191   
+Duration_of_Credit_monthly                                 -0.077186   
+Payment_Status_of_Previous_Credit                           1.000000   
+Purpose                                                    -0.090336   
+Credit_Amount                                              -0.059915   
+Value_Savings_Stocks                                        0.039058   
+Length_of_current_employment                                0.138225   
+Instalment_per_cent                                         0.044375   
+Sex_Marital_Status                                          0.042171   
+Guarantors                                                 -0.040676   
+Duration_in_Current_address                                 0.063198   
+Most_valuable_available_asset                              -0.053777   
+Age_years                                                   0.146337   
+Concurrent_Credits                                          0.159957   
+Type_of_apartment                                           0.061428   
+No_of_Credits_at_this_Bank                                  0.437066   
+Occupation                                                  0.010350   
+No_of_dependents                                            0.011550   
+Telephone                                                   0.052370   
+Foreign_Worker                                              0.028554   
+
+                                    Purpose  Credit_Amount  \
+Account_Balance                    0.028783      -0.042695   
+Duration_of_Credit_monthly         0.147492       0.624988   
+Payment_Status_of_Previous_Credit -0.090336      -0.059915   
+Purpose                            1.000000       0.068480   
+Credit_Amount                      0.068480       1.000000   
+Value_Savings_Stocks              -0.018684       0.064632   
+Length_of_current_employment       0.016013      -0.008376   
+Instalment_per_cent                0.048369      -0.271322   
+Sex_Marital_Status                 0.000157      -0.016094   
+Guarantors                        -0.017607      -0.027831   
+Duration_in_Current_address       -0.038221       0.028917   
+Most_valuable_available_asset      0.010966       0.311602   
+Age_years                         -0.000892       0.032273   
+Concurrent_Credits                -0.100230      -0.069392   
+Type_of_apartment                  0.013495       0.133024   
+No_of_Credits_at_this_Bank         0.054935       0.020785   
+Occupation                         0.008085       0.285393   
+No_of_dependents                  -0.032577       0.017144   
+Telephone                          0.078371       0.277000   
+Foreign_Worker                    -0.113244      -0.030662   
+
+                                   Value_Savings_Stocks  \
+Account_Balance                                0.222867   
+Duration_of_Credit_monthly                     0.047661   
+Payment_Status_of_Previous_Credit              0.039058   
+Purpose                                       -0.018684   
+Credit_Amount                                  0.064632   
+Value_Savings_Stocks                           1.000000   
+Length_of_current_employment                   0.120950   
+Instalment_per_cent                            0.021993   
+Sex_Marital_Status                             0.017349   
+Guarantors                                    -0.105069   
+Duration_in_Current_address                    0.091424   
+Most_valuable_available_asset                  0.018948   
+Age_years                                      0.083434   
+Concurrent_Credits                             0.001908   
+Type_of_apartment                              0.006644   
+No_of_Credits_at_this_Bank                    -0.021644   
+Occupation                                     0.011709   
+No_of_dependents                               0.027514   
+Telephone                                      0.087208   
+Foreign_Worker                                 0.010450   
+
+                                   Length_of_current_employment  \
+Account_Balance                                        0.106339   
+Duration_of_Credit_monthly                             0.057381   
+Payment_Status_of_Previous_Credit                      0.138225   
+Purpose                                                0.016013   
+Credit_Amount                                         -0.008376   
+Value_Savings_Stocks                                   0.120950   
+Length_of_current_employment                           1.000000   
+Instalment_per_cent                                    0.126161   
+Sex_Marital_Status                                     0.111278   
+Guarantors                                            -0.008116   
+Duration_in_Current_address                            0.245081   
+Most_valuable_available_asset                          0.087187   
+Age_years                                              0.259116   
+Concurrent_Credits                                    -0.007279   
+Type_of_apartment                                      0.115077   
+No_of_Credits_at_this_Bank                             0.125791   
+Occupation                                             0.101225   
+No_of_dependents                                       0.097192   
+Telephone                                              0.060518   
+Foreign_Worker                                        -0.022845   
+
+                                   Instalment_per_cent  Sex_Marital_Status  \
+Account_Balance                              -0.005280            0.043261   
+Duration_of_Credit_monthly                    0.074749            0.014789   
+Payment_Status_of_Previous_Credit             0.044375            0.042171   
+Purpose                                       0.048369            0.000157   
+Credit_Amount                                -0.271322           -0.016094   
+Value_Savings_Stocks                          0.021993            0.017349   
+Length_of_current_employment                  0.126161            0.111278   
+Instalment_per_cent                           1.000000            0.119308   
+Sex_Marital_Status                            0.119308            1.000000   
+Guarantors                                   -0.011398            0.050634   
+Duration_in_Current_address                   0.049302           -0.027269   
+Most_valuable_available_asset                 0.053391           -0.006940   
+Age_years                                     0.057271            0.005150   
+Concurrent_Credits                            0.007894           -0.026747   
+Type_of_apartment                             0.091229            0.098934   
+No_of_Credits_at_this_Bank                    0.021669            0.064672   
+Occupation                                    0.097755           -0.011956   
+No_of_dependents                             -0.071207            0.122165   
+Telephone                                     0.014413            0.027275   
+Foreign_Worker                               -0.094762            0.073103   
+
+                                   Guarantors  Duration_in_Current_address  \
+Account_Balance                     -0.127737                    -0.042234   
+Duration_of_Credit_monthly          -0.024490                     0.034067   
+Payment_Status_of_Previous_Credit   -0.040676                     0.063198   
+Purpose                             -0.017607                    -0.038221   
+Credit_Amount                       -0.027831                     0.028917   
+Value_Savings_Stocks                -0.105069                     0.091424   
+Length_of_current_employment        -0.008116                     0.245081   
+Instalment_per_cent                 -0.011398                     0.049302   
+Sex_Marital_Status                   0.050634                    -0.027269   
+Guarantors                           1.000000                    -0.025678   
+Duration_in_Current_address         -0.025678                     1.000000   
+Most_valuable_available_asset       -0.155450                     0.147231   
+Age_years                           -0.029826                     0.265626   
+Concurrent_Credits                  -0.038235                     0.022654   
+Type_of_apartment                   -0.065449                     0.009990   
+No_of_Credits_at_this_Bank          -0.025447                     0.089625   
+Occupation                          -0.057963                     0.012655   
+No_of_dependents                     0.020400                     0.042643   
+Telephone                           -0.075035                     0.095359   
+Foreign_Worker                       0.140190                    -0.039691   
+
+                                   Most_valuable_available_asset  Age_years  \
+Account_Balance                                        -0.032260   0.058631   
+Duration_of_Credit_monthly                              0.303971  -0.037550   
+Payment_Status_of_Previous_Credit                      -0.053777   0.146337   
+Purpose                                                 0.010966  -0.000892   
+Credit_Amount                                           0.311602   0.032273   
+Value_Savings_Stocks                                    0.018948   0.083434   
+Length_of_current_employment                            0.087187   0.259116   
+Instalment_per_cent                                     0.053391   0.057271   
+Sex_Marital_Status                                     -0.006940   0.005150   
+Guarantors                                             -0.155450  -0.029826   
+Duration_in_Current_address                             0.147231   0.265626   
+Most_valuable_available_asset                           1.000000   0.074551   
+Age_years                                               0.074551   1.000000   
+Concurrent_Credits                                     -0.107593  -0.030472   
+Type_of_apartment                                       0.342969   0.303346   
+No_of_Credits_at_this_Bank                             -0.007765   0.150718   
+Occupation                                              0.276149   0.015383   
+No_of_dependents                                        0.011872   0.118589   
+Telephone                                               0.196802   0.143506   
+Foreign_Worker                                         -0.132462   0.013981   
+
+                                   Concurrent_Credits  Type_of_apartment  \
+Account_Balance                              0.068274           0.023335   
+Duration_of_Credit_monthly                  -0.062884           0.153126   
+Payment_Status_of_Previous_Credit            0.159957           0.061428   
+Purpose                                     -0.100230           0.013495   
+Credit_Amount                               -0.069392           0.133024   
+Value_Savings_Stocks                         0.001908           0.006644   
+Length_of_current_employment                -0.007279           0.115077   
+Instalment_per_cent                          0.007894           0.091229   
+Sex_Marital_Status                          -0.026747           0.098934   
+Guarantors                                  -0.038235          -0.065449   
+Duration_in_Current_address                  0.022654           0.009990   
+Most_valuable_available_asset               -0.107593           0.342969   
+Age_years                                   -0.030472           0.303346   
+Concurrent_Credits                           1.000000          -0.097398   
+Type_of_apartment                           -0.097398           1.000000   
+No_of_Credits_at_this_Bank                  -0.055810           0.050020   
+Occupation                                   0.006077           0.104243   
+No_of_dependents                            -0.076891           0.115549   
+Telephone                                   -0.025140           0.100327   
+Foreign_Worker                               0.007700          -0.083336   
+
+                                   No_of_Credits_at_this_Bank  Occupation  \
+Account_Balance                                      0.076005    0.040663   
+Duration_of_Credit_monthly                          -0.011284    0.210910   
+Payment_Status_of_Previous_Credit                    0.437066    0.010350   
+Purpose                                              0.054935    0.008085   
+Credit_Amount                                        0.020785    0.285393   
+Value_Savings_Stocks                                -0.021644    0.011709   
+Length_of_current_employment                         0.125791    0.101225   
+Instalment_per_cent                                  0.021669    0.097755   
+Sex_Marital_Status                                   0.064672   -0.011956   
+Guarantors                                          -0.025447   -0.057963   
+Duration_in_Current_address                          0.089625    0.012655   
+Most_valuable_available_asset                       -0.007765    0.276149   
+Age_years                                            0.150718    0.015383   
+Concurrent_Credits                                  -0.055810    0.006077   
+Type_of_apartment                                    0.050020    0.104243   
+No_of_Credits_at_this_Bank                           1.000000   -0.026321   
+Occupation                                          -0.026321    1.000000   
+No_of_dependents                                     0.109667   -0.093559   
+Telephone                                            0.065553    0.383022   
+Foreign_Worker                                      -0.018893   -0.092835   
+
+                                   No_of_dependents  Telephone  Foreign_Worker  
+Account_Balance                           -0.014145   0.066296       -0.035187  
+Duration_of_Credit_monthly                -0.023834   0.164718       -0.134680  
+Payment_Status_of_Previous_Credit          0.011550   0.052370        0.028554  
+Purpose                                   -0.032577   0.078371       -0.113244  
+Credit_Amount                              0.017144   0.277000       -0.030662  
+Value_Savings_Stocks                       0.027514   0.087208        0.010450  
+Length_of_current_employment               0.097192   0.060518       -0.022845  
+Instalment_per_cent                       -0.071207   0.014413       -0.094762  
+Sex_Marital_Status                         0.122165   0.027275        0.073103  
+Guarantors                                 0.020400  -0.075035        0.140190  
+Duration_in_Current_address                0.042643   0.095359       -0.039691  
+Most_valuable_available_asset              0.011872   0.196802       -0.132462  
+Age_years                                  0.118589   0.143506        0.013981  
+Concurrent_Credits                        -0.076891  -0.025140        0.007700  
+Type_of_apartment                          0.115549   0.100327       -0.083336  
+No_of_Credits_at_this_Bank                 0.109667   0.065553       -0.018893  
+Occupation                                -0.093559   0.383022       -0.092835  
+No_of_dependents                           1.000000  -0.014753        0.077071  
+Telephone                                 -0.014753   1.000000       -0.075012  
+Foreign_Worker                             0.077071  -0.075012        1.000000  
